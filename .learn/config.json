@@ -98,7 +98,7 @@
         }
     },
     "address": "http://localhost:3000",
-    "currentExercise": null,
+    "currentExercise": "default-index",
     "exercises": [
         {
             "position": 0,
@@ -124,6 +124,11 @@
                     "hidden": true
                 },
                 {
+                    "path": ".//.gitattributes",
+                    "name": ".gitattributes",
+                    "hidden": true
+                },
+                {
                     "path": ".//.github",
                     "name": ".github",
                     "hidden": true
@@ -131,6 +136,11 @@
                 {
                     "path": ".//.learn",
                     "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.vscode",
+                    "name": ".vscode",
                     "hidden": true
                 },
                 {
@@ -165,5 +175,5 @@
     "bugsLink": null,
     "videoSolutions": false,
     "localhostOnly": false,
-    "session": 1556180663875934500
+    "session": 9551374886612550000
 }
